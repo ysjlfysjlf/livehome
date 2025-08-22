@@ -1,5 +1,23 @@
-# LiveHome 项目说明
+<h3><b>Description</b></h3>
+小鹅通公司和学院联合举办的为期两周的项目实战，是一款基于Go+WebSocket+Vue3+Vite+Node+Nginx+Dokcer的网站Go+WebSocket+Vue3+Vite+Node+Nginx+Dokcer的网站
+<h3><b>效果展示：</b></h3>
 
+
+https://github.com/user-attachments/assets/9dd365bb-556e-4a7e-8039-d9cce1285f7c
+
+首页效果图，点击进入回放按钮，可进入播放视频页面。
+<img width="1525" height="907" alt="image" src="https://github.com/user-attachments/assets/6e34dbeb-366e-47b0-8ad0-ae9ed5445008" />
+
+播放视频页面，支持视频播放的倍速、前进、后退、暂停的能力
+<img width="1532" height="913" alt="image" src="https://github.com/user-attachments/assets/6408ac42-4753-44f3-8176-ee439b118b4d" />
+
+聊天模块，使用WebSocket实现多人实时聊天功能
+
+<img width="263" height="858" alt="image" src="https://github.com/user-attachments/assets/47673bb3-5e58-49ed-a266-7d8f2fb1adc1" />
+
+
+</br></br>
+<h2><b>以下为项目提交说明（无关）</b></h2>
 ## 技术栈
 
 - 前端：Vite + Vue3
