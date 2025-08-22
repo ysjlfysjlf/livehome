@@ -17,7 +17,7 @@ https://github.com/user-attachments/assets/9dd365bb-556e-4a7e-8039-d9cce1285f7c
 
 
 </br></br>
-<h2><b>以下为项目提交说明（无关）</b></h2>
+<h2><b>以下为项目提交说明</b></h2>
 ## 技术栈
 
 - 前端：Vite + Vue3
