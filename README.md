@@ -1,5 +1,5 @@
 <h3><b>Description</b></h3>
-![](https://github.com/ysjlfysjlf/livehome/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260228114453_205_3.jpg)
+![](![](https://raw.githubusercontent.com/ysjlfy sjlf/livehome/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260228114453_205_3.jpg))
 
 小鹅通公司和学院联合举办的为期两周的项目实战，是一款基于Go+WebSocket+Vue3+Vite+Node+Nginx+Dokcer的网站
 <h3><b>效果展示：</b></h3>
