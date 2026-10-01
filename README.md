@@ -1,6 +1,5 @@
 <h3><b>Description</b></h3>
-
-![image](https://github.com/ysjlfysjlf/livehome/blob/main/xet.jpg?raw=true&w=800)
+<img src="https://github.com/ysjlfysjlf/livehome/blob/main/xet.jpg?raw=true" width="400">
 
 小鹅通公司和学院联合举办的为期两周的项目实战，是一款基于Go+WebSocket+Vue3+Vite+Node+Nginx+Dokcer的网站
 <h3><b>效果展示：</b></h3>
