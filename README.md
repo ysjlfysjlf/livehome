@@ -19,7 +19,7 @@ https://github.com/user-attachments/assets/9dd365bb-556e-4a7e-8039-d9cce1285f7c
 
 - 独立完成前后端全部开发
 - 在 40+ 人参加的比赛中获得「最佳实现奖」
-<img src="https://github.com/ysjlfysjlf/livehome/blob/main/xet.jpg?raw=true" width="250">
+<img src="https://github.com/ysjlfysjlf/livehome/blob/main/xet.jpg?raw=true" width="300">
 
 
 </br></br>
