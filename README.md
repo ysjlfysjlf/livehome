@@ -1,6 +1,4 @@
 <h3><b>Description</b></h3>
-<img src="https://github.com/ysjlfysjlf/livehome/blob/main/xet.jpg?raw=true" width="400">
-
 小鹅通公司和学院联合举办的为期两周的项目实战，是一款基于Go+WebSocket+Vue3+Vite+Node+Nginx+Dokcer的网站
 <h3><b>效果展示：</b></h3>
 
@@ -16,6 +14,12 @@ https://github.com/user-attachments/assets/9dd365bb-556e-4a7e-8039-d9cce1285f7c
 聊天模块，使用WebSocket实现多人实时聊天功能
 
 <img width="263" height="858" alt="image" src="https://github.com/user-attachments/assets/47673bb3-5e58-49ed-a266-7d8f2fb1adc1" />
+
+### 项目成果
+
+- 独立完成前后端全部开发
+- 在 40+ 人参加的比赛中获得「最佳实现奖」
+<img src="https://github.com/ysjlfysjlf/livehome/blob/main/xet.jpg?raw=true" width="250">
 
 
 </br></br>
@@ -60,6 +64,7 @@ docker-compose up --build -d
  3. **直播间评论聊天功能**
    - 已集成 WebSocket，实现直播间的实时评论与消息推送。
    - 前端评论区支持消息即时显示，后端 Go 服务负责消息广播。
+
 
 
 
